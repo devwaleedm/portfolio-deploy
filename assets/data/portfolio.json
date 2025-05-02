@@ -1,0 +1,186 @@
+{
+  "name": "Waleed M",
+  "title": "Senior Software Engineer (.NET & Angular)",
+  "location": "Punjab, Pakistan",
+  "profileImage": "assets/images/profile-pic.png",
+  "summary": "Results-driven Full-Stack Developer with 8+ years of experience in .NET, Angular, and SQL. Led $500K+ projects and managed teams of up to 10 developers. Specializes in scalable, high-performance systems with OpenSearch, Blazor, Identity Server, and distributed services.",
+  "aboutMe": "I am a results-driven Full-Stack Developer with 8+ years of expertise in .NET, .NET Core, Web API, MVC, Blazor, Angular, and SQL technologies. Throughout my career, I've successfully led projects with budgets exceeding $500,000 and managed development teams of up to 10 members.\n\nI specialize in building high-performance, secure, and scalable solutions, having implemented OpenSearch integrations that improved query speeds by 90% and developed robust payment systems with Duende/Identity Server. My technical toolkit includes C#, TypeScript, JavaScript, SQL, Azure DevOps, Git, and Agile methodologies.\n\nHaving worked with companies across Europe, the United States, and Canada, I thrive in fast-paced, diverse environments. I'm passionate about building and optimizing reliable, high-availability distributed services, with a keen eye for detail and a collaborative approach. As a quick learner who enjoys new challenges, I continuously seek opportunities to expand my skills and deliver exceptional solutions.",
+  "skills": {
+    "languagesFrameworks": [
+      { "name": ".NET", "icon": "fab fa-microsoft" },
+      { "name": ".NET Core", "icon": "fab fa-microsoft" },
+      { "name": "ASP.NET", "icon": "fab fa-microsoft" },
+      { "name": "Angular", "icon": "fab fa-angular" },
+      { "name": "Entity Framework Core", "icon": "fas fa-database" },
+      { "name": "RESTful API", "icon": "fas fa-plug" },
+      { "name": "Microservices", "icon": "fas fa-cubes" },
+      { "name": "MVC", "icon": "fas fa-layer-group" },
+      { "name": "OpenSearch", "icon": "fas fa-search" },
+      { "name": "xUnit", "icon": "fas fa-vial" },
+      { "name": "NLog", "icon": "fas fa-file-alt" },
+      { "name": "gRPC", "icon": "fas fa-network-wired" },
+      { "name": "Blazor", "icon": "fas fa-fire" },
+      { "name": "GraphQL", "icon": "fas fa-project-diagram" },
+      { "name": "C#", "icon": "fas fa-code" },
+      { "name": "TypeScript", "icon": "fab fa-js" },
+      { "name": "JavaScript", "icon": "fab fa-js-square" },
+      { "name": "HTML", "icon": "fab fa-html5" },
+      { "name": "CSS", "icon": "fab fa-css3-alt" },
+      { "name": "Bootstrap", "icon": "fab fa-bootstrap" },
+      { "name": "Dapper", "icon": "fas fa-stream" },
+      { "name": "jQuery", "icon": "fas fa-code" }
+    ],
+    "databases": [
+      { "name": "MS SQL Server", "icon": "fas fa-server" },
+      { "name": "PostgreSQL", "icon": "fas fa-database" },
+      { "name": "MySQL", "icon": "fas fa-database" }
+    ],
+    "tools": [
+      { "name": "Azure DevOps", "icon": "fab fa-microsoft" },
+      { "name": "GCP", "icon": "fab fa-google" },
+      { "name": "Git", "icon": "fab fa-git-alt" },
+      { "name": "Bitbucket", "icon": "fab fa-bitbucket" },
+      { "name": "TFS", "icon": "fas fa-server" },
+      { "name": "Jira", "icon": "fab fa-jira" }
+    ],
+    "methodologies": [
+      { "name": "Agile", "icon": "fas fa-project-diagram" },
+      { "name": "Waterfall", "icon": "fas fa-water" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Whizzbridge",
+      "location": "Dover, DE, USA",
+      "title": "Senior Software Engineer",
+      "period": "Nov 2023 – Present",
+      "highlights": [
+        "Operating within a project-based model, engaging with diverse projects and clients across industries, ensuring versatility and agility.",
+        "Collaborating closely with 10 projects and 3 companies, leveraging expertise to deliver tailored solutions and drive successful metrics.",
+        "Contributing uniquely customized solutions, achieving a 40% increase in project efficiency and client satisfaction across diverse environments."
+      ]
+    },
+    {
+      "company": "ThreeRocks Ltd",
+      "location": "Thame, UK",
+      "title": "Contract Software Engineer",
+      "period": "Feb 2023 – Apr 2025",
+      "highlights": [
+        "Integrated complex third-party providers such as Trifft and Zonal systems into existing Order and Pay platforms for one of the largest restaurant companies in the UK.",
+        "Spearheaded the implementation of an Identity Server 4, fortifying API security and ensuring the protection of sensitive data.",
+        "Integrated Spire API using GraphQL, reducing data retrieval time by 60% and enabling real-time tracking and retrieval of vessel information, significantly enhancing project capabilities.",
+        "Implemented Azure webhooks for seamless synchronization of Azure Active Directory (AD) users, resulting in a 45% improvement in user data accuracy and a 20% reduction in user-related issues.",
+        "Incorporated Braintree payment gateway for card payments, Google Pay, and Apple Pay.",
+        "Provided support to 8 enterprise projects."
+      ]
+    },
+    {
+      "company": "Nine Alpha Global Computing",
+      "location": "Lahore, Pakistan",
+      "title": "Senior Software Engineer",
+      "period": "Aug 2020 – Sep 2023",
+      "highlights": [
+        "Engineered the project from scratch, including data migration from old software to new.",
+        "Developed modules e.g. Capture, Process, and Comply, increasing productivity by 50%.",
+        "Carried out quality control, production, auditing, maintenance, safety protocol features, and enhancing compliance.",
+        "Integrated OpenSearch, boosting search speed by 90%.",
+        "Built the web application with Angular 15 and .NET Core API, reducing load times by 80%.",
+        "Deployed applications using Azure DevOps and manual techniques, reducing deployment time by 75%."
+      ]
+    },
+    {
+      "company": "MTBC - CareCloud",
+      "location": "Rawalpindi, Pakistan",
+      "title": "Tech Lead & Software Engineer",
+      "period": "Jun 2019 – Aug 2020",
+      "highlights": [
+        "Spearheaded the upgrade of the talk EHR project from Angular 6 to Angular 9, yielding a 25% improvement in application response time. ",
+        "Led and managed a 10-person operations team, ensuring efficient project execution and achieving a 95% reduction in service loading time through codebase refactoring. ",
+        "Directed server monitoring, sprint management, and release management, and conducted code reviews to maintain high-quality standards."
+      ]
+    },
+    {
+      "company": "MTBC - CareCloud",
+      "location": "Rawalpindi, Pakistan",
+      "title": "Software Engineer",
+      "period": "Feb 2018 – Jun 2019",
+      "highlights": [
+        "Developed key modules for the talk EHR application: Document Manager, Schedulers, and Rights Authorization, enhancing functionality. ",
+        "Integrated APIs for ICDs and CPTs, reducing coding errors by 30% and improving efficiency by 25%, enhancing medical coding accuracy. ",
+        "Resolved operational issues in Charts and Claims, resulting in a 15% improvement in overall application performance."
+      ]
+    },
+    {
+      "company": "Celestia Software",
+      "location": "Islamabad, Pakistan",
+      "title": "Software Developer",
+      "period": "Jul 2017 – Jan 2018",
+      "highlights": [
+        "Significantly contributed to the development of Meeting Point, completing the project 10 days ahead of schedule and boosting user adoption. ",
+        "Ensured Meeting Point aligned with requirements, reducing post-launch issues and improving user satisfaction by 35%. ",
+        "Produced comprehensive product documentation for Meeting Point, resulting in a 60% decrease in user inquiries and improved self-service usability."
+      ]
+    }
+  ],
+  "projects": [
+    { "name": "Bella Italia", "url": "https://www.bellaitalia.co.uk", "description": "Bella Italia, is a chain of over 90 restaurants offering meals inspired by Italian cuisine in the United Kingdom and Ireland", "thumbnail": "assets/images/bella-logo.png" },
+    { "name": "Seamcor", "url": "https://www.seamcor.com", "description": "The all-in-one business information system. With incorporated automation, data management, and security, it's fully autonomous and personalized to your needs.", "thumbnail": "assets/images/seamcor-logo.png" },
+    { "name": "Las Iguanas", "url": "https://www.iguanas.co.uk", "description": "Las Iguanas is a casual dining restaurant chain originating from the UK, with a Latin American theme", "thumbnail": "assets/images/iguanas-logo.png" },
+    { "name": "PartShare", "url": "https://www.partshare.com", "description": "PartShare, is a web-based portal for APSG and Pronto-approved programs. It provides a single source of product information for members and suppliers.", "thumbnail": "assets/images/part-share-logo.png" },
+    { "name": "Frankie & Benny's", "url": "https://www.frankieandbennys.com", "description": "Frankie & Benny's is a chain of Italian American-themed restaurants in the United Kingdom run by The Big Table, it has over 90 outlets nationwide", "thumbnail": "assets/images/fnb-logo.png" },
+    { "name": "Chiquito", "url": "https://www.chiquito.co.uk", "description": "Chiquito is a renowned Mexican restaurant known for its delicious taste, innovative recipes, and unique cuisine. It has a dedicated global super-fan base.", "thumbnail": "assets/images/chiquito-logo.png" },
+    { "name": "Infospectrum", "url": "https://www.infospectrum.net", "description": "Infospectrum is the leading independent global provider of counterparty risk appraisal reports and ratings, due diligence research, KYC intelligence, and supporting solutions.", "thumbnail": "assets/images/infospectrum-logo.jpg" },
+    { "name": "Verco", "url": "https://www.vercoglobal.com", "description": "Verco helps companies reduce their environmental impact and make savings through data-driven analysis, grounded advice, and real-world solutions.", "thumbnail": "assets/images/verco-logo.png" },
+    { "name": "Zioxi", "url": "https://zioxi.com", "description": "A smart furniture store. Trolleys, Lockers, and Cabinets can charge any mobile IT device. All Acer, Apple, Google, Microsoft, and Lego devices are stored and ready for use 24x7.", "thumbnail": "assets/images/zioxi-logo.png" },
+    { "name": "Groves And Banks", "url": "https://www.grovesltd.co.uk", "description": "Groves, a family-owned business for over 50 years, supplies sewing, knitting, quilting, and needlecraft products. Known for its vast range of branded products and exceptional customer service, it is the UK's leading distributor.", "thumbnail": "assets/images/groves-logo.png" },
+    { "name": "CarPal", "url": "https://carpal.com", "description": "24/7 roadside assistance at your fingertips. Roadside and vehicle assistance services are available regionally in all cities, including Bahrain, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates.", "thumbnail": "assets/images/carpal-logo.png" },
+    { "name": "TalkEHR", "url": "https://www.talkehr.com", "description": "TalkEHR offers cloud-based healthcare solutions with tools for scheduling, charting, and patient management. Widely used in the USA, it supports unmatched patient care.", "thumbnail": "assets/images/talkehr-logo.png" }
+  ],
+  "education": {
+    "degree": "BS in Software Engineering",
+    "institution": "COMSATS University, Sahiwal, Pakistan",
+    "period": "Sep 2013 – Jul 2017"
+  },
+  "certifications": [
+    {
+      "name": "Strategic gRPC [C#] Master Class",
+      "issuer": "Udemy",
+      "date": "Nov 2022",
+      "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-fc8e731e-f7fa-4c90-b21b-da2256c4d287.pdf",
+      "icon": "fas fa-laptop-code"
+    },
+    {
+      "name": "Scrum Foundation Professional Certificate (SFPC)",
+      "issuer": "CertiProf",
+      "date": "Aug 2020 – Aug 2022",
+      "url": "https://www.credly.com/badges/654b4f69-6eb8-4ff2-b2f6-846e82dea20c",
+      "icon": "fas fa-users"
+    },
+    {
+      "name": "English for Career Development",
+      "issuer": "Coursera",
+      "date": "Jul 2020",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/H5URCPLPZJQ9",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "name": "IELTS General",
+      "issuer": "British Council",
+      "date": "May 2024",
+      "url": "https://www.ielts.org/",
+      "icon": "fas fa-language"
+    }
+  ],
+  "languages": [
+    { "language": "English", "level": "C1 – Proficient" }
+  ],
+  "cvDownloads": {
+    "pdf": "assets/cv/Waleed_CV.pdf",
+    "docx": "assets/cv/Waleed_CV.docx",
+    "europass": "assets/cv/Waleed_CV.pdf"
+  },
+  "contact": {
+    "message": "Let's Connect! This site is a showcase of innovation and leadership. Stay tuned for more.",
+    "linkedInUrl": "https://www.linkedin.com/in/ranawaleed/"
+  }
+} 
